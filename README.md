@@ -47,5 +47,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=s-hightower&" alt="s-hightower" /></p>
 
 <p align="center">
-  <img src="./images/bootingup.gif" alt="animated girl typing" width="60%" />
+  <img src="./images/bootingup.gif" alt="booting up sequence from Hackers" width="60%" />
 </p>
+<p><small>if you get this reference😉</small></p>
