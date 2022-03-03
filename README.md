@@ -37,7 +37,7 @@
 </ul>
 
 <p align="center">
-  <img src="./images/animegirltyping.gif" alt="animated girl typing" width="50%" />
+  <img src="./images/animegirltyping.gif" alt="animated girl typing" width="75%" />
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-hightower&show_icons=true&locale=en&layout=compact" alt="s-hightower" /></p>
@@ -47,5 +47,5 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=s-hightower&" alt="s-hightower" /></p>
 
 <p align="center">
-  <img src="./images/bootingup.gif" alt="animated girl typing" width="50%" />
+  <img src="./images/bootingup.gif" alt="animated girl typing" width="75%" />
 </p>
