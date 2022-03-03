@@ -7,7 +7,7 @@
 <a href="https://www.hackerrank.com/s-hightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s-hightower" height="25" width="35" /></a>
 <a href="https://www.leetcode.com/s-hightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s-hightower" height="25" width="35" /></a>
 </p>
-<h4 align="center">Full stack developer passionate about open source, sharing knowledge, and freedom of expression, constantly pushing for optimization and ingenuity. An eternal student committed to learning, growing and building with new technology.</h4>
+<h4 align="center">Full stack developer passionate about open source, sharing knowledge, and freedom of expression. Constantly pushing for optimization and ingenuity. An eternal student committed to learning, growing and building with new technology.</h4>
 
 <p align="center">
   <img src="./images/growbeauty.gif" alt="plant growing as typing is done" width="50%" />
@@ -36,6 +36,10 @@
 <li>Other [Agile, Scrum, RESTful Architecture & API, MVC, SDLC]</li>
 </ul>
 
+<p align="center">
+  <img src="./images/animegirltyping.gif" alt="animated girl typing" width="50%" />
+</p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-hightower&show_icons=true&locale=en&layout=compact" alt="s-hightower" /></p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=s-hightower&show_icons=true&locale=en" alt="s-hightower" /></p>
@@ -43,5 +47,5 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=s-hightower&" alt="s-hightower" /></p>
 
 <p align="center">
-  <img src="./images/girltyping.gif" alt="animated girl typing" width="50%" />
+  <img src="./images/bootingup.gif" alt="animated girl typing" width="50%" />
 </p>
