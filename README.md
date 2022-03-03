@@ -2,7 +2,7 @@
 <h3 align="center">Full stack developer passionate about open source, sharing knowledge, and freedom of expression, constantly pushing for optimization and ingenuity. An eternal student committed to learning, growing and building with new technology.</h3>
 
 <p align="center">
-  <img src=".growbeauty.gif" alt="plant growing as typing is done" width="50%" />
+  <img src="./images/growbeauty.gif" alt="plant growing as typing is done" width="50%" />
 </p>
 
 - 🔭 I’m currently working on [Sports Dash ⚽](https://github.com/S-Hightower/Sports_Dash) [Flick ITS 🦎](https://github.com/S-Hightower/Flick-ITS) [Nokori App 🌸](https://github.com/S-Hightower/Nokori_App)
