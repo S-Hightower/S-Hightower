@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Shawna ✌🏼</h1>
 <h4 align="center">💬Connect with me:</h4>
 <p align="center">
-<a href="https://dev.to/shightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shightower" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/sdhightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdhightower" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shightower" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/s-hightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s-hightower" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/s-hightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s-hightower" height="30" width="40" /></a>
+<a href="https://dev.to/shightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shightower" height="25" width="35" /></a>
+<a href="https://linkedin.com/in/sdhightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdhightower" height="25" width="35" /></a>
+<a href="https://stackoverflow.com/users/shightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shightower" height="25" width="35" /></a>
+<a href="https://www.hackerrank.com/s-hightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s-hightower" height="25" width="35" /></a>
+<a href="https://www.leetcode.com/s-hightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s-hightower" height="25" width="35" /></a>
 </p>
 <h4 align="center">Full stack developer passionate about open source, sharing knowledge, and freedom of expression, constantly pushing for optimization and ingenuity. An eternal student committed to learning, growing and building with new technology.</h4>
 
