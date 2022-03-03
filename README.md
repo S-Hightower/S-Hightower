@@ -5,7 +5,7 @@
   <img src="./images/growbeauty.gif" alt="plant growing as typing is done" width="50%" />
 </p>
 
-- 🔭 I’m currently working on [Sports Dash ⚽](https://github.com/S-Hightower/Sports_Dash) [Flick ITS 🦎](https://github.com/S-Hightower/Flick-ITS) [Nokori App 🌸](https://github.com/S-Hightower/Nokori_App)
+- 👩🏼‍💻 I’m currently working on [Sports Dash ⚽](https://github.com/S-Hightower/Sports_Dash) | [Flick ITS 🦎](https://github.com/S-Hightower/Flick-ITS) | [Nokori App 🌸](https://github.com/S-Hightower/Nokori_App)
 
 - 🌱 I’m currently learning **responsive web design and data visualization**
 
