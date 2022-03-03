@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Shawna ✌🏼</h1>
-<h3 align="center">Full stack developer passionate about open source, sharing knowledge, and freedom of expression, constantly pushing for optimization and ingenuity. An eternal student committed to learning, growing and building with new technology.</h3>
+<h4 align="center">Full stack developer passionate about open source, sharing knowledge, and freedom of expression, constantly pushing for optimization and ingenuity. An eternal student committed to learning, growing and building with new technology.</h4>
 
 <p align="center">
   <img src="./images/growbeauty.gif" alt="plant growing as typing is done" width="50%" />
