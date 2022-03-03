@@ -1,4 +1,12 @@
 <h1 align="center">Hi there, I'm Shawna ✌🏼</h1>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://dev.to/shightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shightower" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sdhightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdhightower" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/shightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shightower" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/s-hightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s-hightower" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/s-hightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s-hightower" height="30" width="40" /></a>
+</p>
 <h4 align="center">Full stack developer passionate about open source, sharing knowledge, and freedom of expression, constantly pushing for optimization and ingenuity. An eternal student committed to learning, growing and building with new technology.</h4>
 
 <p align="center">
@@ -33,15 +41,6 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=s-hightower&show_icons=true&locale=en" alt="s-hightower" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=s-hightower&" alt="s-hightower" /></p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/shightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shightower" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sdhightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdhightower" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shightower" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/s-hightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s-hightower" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/s-hightower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s-hightower" height="30" width="40" /></a>
-</p>
 
 <p align="center">
   <img src="./images/girltyping.gif" alt="animated girl typing" width="50%" />
