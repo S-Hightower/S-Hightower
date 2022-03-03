@@ -47,5 +47,5 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=s-hightower&" alt="s-hightower" /></p>
 
 <p align="center">
-  <img src="./images/bootingup.gif" alt="animated girl typing" width="75%" />
+  <img src="./images/bootingup.gif" alt="animated girl typing" width="60%" />
 </p>
