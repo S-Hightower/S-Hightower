@@ -49,4 +49,4 @@
 <p align="center">
   <img src="./images/bootingup.gif" alt="booting up sequence from Hackers" width="60%" />
 </p>
-<p><small>if you get this reference😉</small></p>
+<p align="center"><small>if you get this reference😉</small></p>
