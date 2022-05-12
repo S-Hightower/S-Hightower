@@ -15,7 +15,7 @@
 
 - 👩🏼‍💻 I’m currently working on [Sports Dash ⚽](https://github.com/S-Hightower/Sports_Dash) | [Flick ITS 🦎](https://github.com/S-Hightower/Flick-ITS) | [Nokori App 🌸](https://github.com/S-Hightower/Nokori_App) | [Tolkien Search 🧙🏼‍♂](https://github.com/S-Hightower/Tolkien-Search)
 
-- 🌱 I’m currently learning **responsive web design, data visualization, and Ruby**
+- 🌱 I’m currently learning **data visualization, Ruby, Go, Postgres, and CI/CD best practices**
 
 - 📫 How to reach me **sdhightower6@gmail.com**
 
